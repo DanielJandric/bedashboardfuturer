@@ -1,0 +1,39 @@
+{
+    "file_path": "/home/ubuntu/upload/Tableau_Evaluations_Fusionne.xlsx",
+    "sheets": {
+        "Sheet1": {
+            "columns": {
+                "ID": "integer",
+                "Commune": "string",
+                "Adresse": "string",
+                "Type": "string",
+                "Ann\u00e9e constr.": "integer",
+                "Prix acquisition (CHF)": "integer",
+                "Financement (CHF)": "integer",
+                "Financement %": "float",
+                "Valeur CBRE (CHF)": "integer",
+                "Loyer annuel source (CHF)": "float",
+                "Loyer futur source (CHF)": "float",
+                "Rend. brut source": "float",
+                "Construction/R\u00e9novation": "mixed/object",
+                "Surface loc. (m\u00b2)": "integer",
+                "Vacance (%)": "float",
+                "Loyer actuel (CHF/an) CBRE": "integer",
+                "Loyer potentiel (CHF/an) CBRE": "integer",
+                "Potentiel (%)": "float",
+                "Rend. brut": "string",
+                "Rend. net": "string",
+                "Toiture": "string",
+                "Fen\u00eatres": "string",
+                "Chauffage (type, ann\u00e9e)": "string",
+                "Fa\u00e7ade": "string",
+                "Notes": "string",
+                "Date \u00e9valuation": "string",
+                "Taux d'Escompte Nominal (%)": "float",
+                "Taux Capitalisation (Exit)": "float",
+                "Inflation (%)": "float"
+            },
+            "num_rows": 9
+        }
+    }
+}
